@@ -213,7 +213,7 @@ if __name__ == '__main__':
 
 
     with open(filename.split('.')[0]+'.json', 'w') as outfile:
-        json.dump(a, outfile)
+        json.dump(a, outfile, indent=4)
 
 
 
