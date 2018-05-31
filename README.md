@@ -6,6 +6,8 @@ Python 3, GAMS API (high level)
 
 
 # Use
+```
 python3 gdx2json.py --in=gdxfilename.gdx
+```
 
 Output file name will be 'gdxfilename.json'.
